@@ -45,13 +45,13 @@ Sigue estos pasos en tu terminal para descargar el proyecto y configurar el ento
 1. **Clona este repositorio en tu máquina local:**
 
 ```bash
-git clone https://github.com/TU_USUARIO/TU_REPOSITORIO.git
+git clone https://github.com/vpolletv/emily_wellnes_app.git
 ```
 
 2. **Navega al directorio raíz del proyecto:**
 
 ```bash
-cd NOMBRE_DE_LA_CARPETA
+cd emily_wellnes_app/
 ```
 
 3. **Instala las dependencias del proyecto de forma directa:**
